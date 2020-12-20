@@ -1,0 +1,16 @@
+[{
+    "name" : "Muffin aux myrtilles",
+    "description" : "Muffin à base de myrtilles sauvage",
+    "price" : 1.5,
+    "allergen" : ["Gluten", "Lait", "Oeuf"],
+    "bio" : false,
+    "vegan" : false
+},
+{
+    "name" : "Compote Bio",
+    "description" : "Compote de Pommes Bio",
+    "price" : 1.5,
+    "allergen" : [],
+    "bio" : true,
+    "vegan" : true
+}]

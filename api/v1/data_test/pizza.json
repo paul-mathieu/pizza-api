@@ -1,0 +1,46 @@
+[
+    {
+        "name" : "Orientale",
+        "description" : "Sauce tomate, mozzarella, oignons, merguez, poivrons mélangés",
+        "price" : 12.5,
+        "allergen" : ["Gluten", "Lait"],
+        "bio" : false,
+        "vegan" : false
+    },
+
+    {
+        "name" : "Vegan Peppina",
+        "description" : "Sauce tomate, râpé vegan, champignons, oignons, poivrons mélangés, olives noires, tomates fraîches, origan",
+        "price" : 12,
+        "allergen" : ["Gluten"],
+        "bio" : false,
+        "vegan" : true
+    },
+
+    {
+        "name" : "Savoyarde",
+        "description" : "Crème fraîche légère, mozzarella, lardons fumés, pommes de terre sautées, Reblochon A.O.P. de Savoie, origan",
+        "price" : 13,
+        "allergen" : ["Gluten", "Lait"],
+        "bio" : false,
+        "vegan" : false
+    },
+
+    {
+        "name" : "4 Fromages",
+        "description" : "Sauce tomate, mozzarella, chèvre, emmental, Fourme d’Ambert A.O.P.",
+        "price" : 12.5,
+        "allergen" : ["Gluten", "Lait"],
+        "bio" : false,
+        "vegan" : false
+    },
+
+    {
+        "name" : "Forestière Bio",
+        "description" : "Crème fraîche légère, mozzarella, lardons fumés, oignons, jambon, champignons, origan",
+        "price" : 13.5,
+        "allergen" : ["Gluten", "Lait"],
+        "bio" : true,
+        "vegan" : false
+    }
+]

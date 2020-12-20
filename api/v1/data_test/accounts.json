@@ -1,0 +1,34 @@
+[
+  {
+    "name": "chief74",
+    "password": "TheChief74_",
+    "email": "chief.popolo@mail.com",
+    "orders": [],
+    "history": [],
+    "status": "admin"
+  },
+  {
+    "name": "Emma Roux",
+    "password": "123456",
+    "email": "emma.roux@mail.fr",
+    "orders": [],
+    "history": [],
+    "status": "user"
+  },
+  {
+    "name": "Jade Bonnet",
+    "password": "123456",
+    "email": "jade.bonnet@mail.fr",
+    "orders": [],
+    "history": [],
+    "status": "user"
+  },
+  {
+    "name": "Arthur Faure",
+    "password": "123456",
+    "email": "arthur.faure@mail.fr",
+    "orders": [],
+    "history": [],
+    "status": "user"
+  },
+]

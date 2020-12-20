@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Champignons Bio",
+        "description" : "Champignons Bio grillés au feu de bois",
+        "price" : 0.5,
+        "allergen" : [],
+        "bio" : true,
+        "vegan" : true
+    },
+    {
+        "name" : "Chorizo",
+        "description" : "Chorizo Ibérique",
+        "price" : 1,
+        "allergen" : [],
+        "bio" : false,
+        "vegan" : false
+    },
+    {
+        "name" : "Oeuf",
+        "description" : "Oeuf au plat",
+        "price" : 1,
+        "allergen" : ["Oeuf"],
+        "bio" : false,
+        "vegan" : false
+    },
+    {
+        "name" : "Mozzarella Bio",
+        "description" : "Mozzarella Bio au lait de Bufflone, produit de Campagnie (Italie)",
+        "price" : 1.5,
+        "allergen" : ["Lait"],
+        "bio" : true,
+        "vegan" : false
+    }
+]
